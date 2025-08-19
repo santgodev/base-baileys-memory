@@ -1,0 +1,133 @@
+{
+  "fechas_disponibles": [
+    {
+      "fecha": "15/01",
+      "dia_semana": "Miércoles",
+      "horarios_disponibles": [
+        "08:00",
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00"
+      ],
+      "citas_ocupadas": [
+        {
+          "hora": "09:00",
+          "cliente": "Ana Martínez",
+          "duracion": "1 hora"
+        },
+        {
+          "hora": "11:00",
+          "cliente": "Carlos Ruiz",
+          "duracion": "1 hora"
+        },
+        {
+          "hora": "15:00",
+          "cliente": "María González",
+          "duracion": "1 hora"
+        }
+      ]
+    },
+    {
+      "fecha": "18/01",
+      "dia_semana": "Sábado",
+      "horarios_disponibles": [
+        "08:00",
+        "09:00",
+        "10:00",
+        "11:00"
+      ],
+      "citas_ocupadas": [
+        {
+          "hora": "08:00",
+          "cliente": "Luis Pérez",
+          "duracion": "1 hora"
+        }
+      ]
+    },
+    {
+      "fecha": "22/01",
+      "dia_semana": "Miércoles",
+      "horarios_disponibles": [
+        "08:00",
+        "09:00",
+        "11:00",
+        "13:00",
+        "15:00",
+        "17:00"
+      ],
+      "citas_ocupadas": [
+        {
+          "hora": "10:00",
+          "cliente": "Sofía López",
+          "duracion": "1 hora"
+        },
+        {
+          "hora": "14:00",
+          "cliente": "Diego Silva",
+          "duracion": "1 hora"
+        },
+        {
+          "hora": "16:00",
+          "cliente": "Carmen Vega",
+          "duracion": "1 hora"
+        }
+      ]
+    },
+    {
+      "fecha": "25/01",
+      "dia_semana": "Sábado",
+      "horarios_disponibles": [
+        "08:00",
+        "10:00",
+        "11:00"
+      ],
+      "citas_ocupadas": [
+        {
+          "hora": "09:00",
+          "cliente": "Roberto Torres",
+          "duracion": "1 hora"
+        }
+      ]
+    },
+    {
+      "fecha": "29/01",
+      "dia_semana": "Miércoles",
+      "horarios_disponibles": [
+        "08:00",
+        "09:00",
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "17:00"
+      ],
+      "citas_ocupadas": [
+        {
+          "hora": "11:00",
+          "cliente": "Elena Rojas",
+          "duracion": "1 hora"
+        },
+        {
+          "hora": "13:00",
+          "cliente": "Fernando Castro",
+          "duracion": "1 hora"
+        },
+        {
+          "hora": "15:00",
+          "cliente": "Isabel Morales",
+          "duracion": "1 hora"
+        }
+      ]
+    }
+  ],
+  "configuracion": {
+    "horario_atencion": {
+      "lunes_viernes": "8:00 AM - 6:00 PM",
+      "sabado": "8:00 AM - 12:00 PM",
+      "domingo": "Cerrado"
+    },
+    "duracion_cita": "1 hora",
+    "tiempo_confirmacion": "5 minutos"
+  }
+}

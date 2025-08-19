@@ -1,0 +1,235 @@
+{
+  "horarios_ocupados": [
+    {
+      "fecha": "2025-01-20",
+      "dia_semana": "Lunes",
+      "slots": [
+        {
+          "inicio": "09:00",
+          "fin": "10:00",
+          "cliente": "María González",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "11:00",
+          "fin": "12:00",
+          "cliente": "Carlos Ruiz",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "14:00",
+          "fin": "15:00",
+          "cliente": "Ana Martínez",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "16:00",
+          "fin": "17:00",
+          "cliente": "Luis Pérez",
+          "estado": "confirmada"
+        }
+      ]
+    },
+    {
+      "fecha": "2025-01-21",
+      "dia_semana": "Martes",
+      "slots": [
+        {
+          "inicio": "08:00",
+          "fin": "09:00",
+          "cliente": "Sofía López",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "10:00",
+          "fin": "11:00",
+          "cliente": "Diego Silva",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "13:00",
+          "fin": "14:00",
+          "cliente": "Carmen Vega",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "15:00",
+          "fin": "16:00",
+          "cliente": "Roberto Torres",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "17:00",
+          "fin": "18:00",
+          "cliente": "Patricia Jiménez",
+          "estado": "confirmada"
+        }
+      ]
+    },
+    {
+      "fecha": "2025-01-22",
+      "dia_semana": "Miércoles",
+      "slots": [
+        {
+          "inicio": "09:00",
+          "fin": "10:00",
+          "cliente": "Fernando Castro",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "11:00",
+          "fin": "12:00",
+          "cliente": "Isabel Morales",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "14:00",
+          "fin": "15:00",
+          "cliente": "Ricardo Herrera",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "16:00",
+          "fin": "17:00",
+          "cliente": "Elena Rojas",
+          "estado": "confirmada"
+        }
+      ]
+    },
+    {
+      "fecha": "2025-01-23",
+      "dia_semana": "Jueves",
+      "slots": [
+        {
+          "inicio": "08:00",
+          "fin": "09:00",
+          "cliente": "Miguel Ángel",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "10:00",
+          "fin": "11:00",
+          "cliente": "Lucía Mendoza",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "13:00",
+          "fin": "14:00",
+          "cliente": "Jorge Valdez",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "15:00",
+          "fin": "16:00",
+          "cliente": "Rosa Flores",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "17:00",
+          "fin": "18:00",
+          "cliente": "Alberto Sánchez",
+          "estado": "confirmada"
+        }
+      ]
+    },
+    {
+      "fecha": "2025-01-24",
+      "dia_semana": "Viernes",
+      "slots": [
+        {
+          "inicio": "09:00",
+          "fin": "10:00",
+          "cliente": "Verónica Cruz",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "11:00",
+          "fin": "12:00",
+          "cliente": "Héctor Mendoza",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "14:00",
+          "fin": "15:00",
+          "cliente": "Diana Ramírez",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "16:00",
+          "fin": "17:00",
+          "cliente": "Francisco Luna",
+          "estado": "confirmada"
+        }
+      ]
+    },
+    {
+      "fecha": "2025-01-25",
+      "dia_semana": "Sábado",
+      "slots": [
+        {
+          "inicio": "08:00",
+          "fin": "09:00",
+          "cliente": "Gabriela Ortiz",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "09:00",
+          "fin": "10:00",
+          "cliente": "Manuel Vargas",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "10:00",
+          "fin": "11:00",
+          "cliente": "Adriana Paredes",
+          "estado": "confirmada"
+        },
+        {
+          "inicio": "11:00",
+          "fin": "12:00",
+          "cliente": "Eduardo Moreno",
+          "estado": "confirmada"
+        }
+      ]
+    }
+  ],
+  "configuracion": {
+    "horario_atencion": {
+      "lunes_viernes": {
+        "inicio": "08:00",
+        "fin": "18:00"
+      },
+      "sabado": {
+        "inicio": "08:00",
+        "fin": "12:00"
+      },
+      "domingo": "cerrado"
+    },
+    "duracion_cita": 60,
+    "tiempo_confirmacion": 300000,
+    "dias_no_laborables": [
+      "2025-01-19",
+      "2025-01-26",
+      "2025-01-27",
+      "2025-01-28"
+    ]
+  },
+  "estadisticas": {
+    "total_citas": 33,
+    "citas_por_dia": {
+      "lunes": 4,
+      "martes": 5,
+      "miercoles": 4,
+      "jueves": 5,
+      "viernes": 4,
+      "sabado": 4,
+      "domingo": 0
+    },
+    "horarios_mas_populares": [
+      "09:00",
+      "11:00",
+      "14:00",
+      "16:00"
+    ]
+  }
+}

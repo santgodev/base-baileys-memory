@@ -1,0 +1,183 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573125889679@s.whatsapp.net',
+    fromMe: false,
+    id: 'E8C43E7979C001268AB82498514E8640',
+    participant: undefined
+  },
+  messageTimestamp: 1755374587,
+  pushName: '....Yiyo....',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/535567111_1560367431448894_2820312307645147600_n.enc?ccb=11-4&oh=01_Q5Aa2QEbjQzxh3e2PY1T5aoxoQK_O3vTH5gbbgQixsnlAp7OrQ&oe=68C83D59&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 7,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/535567111_1560367431448894_2820312307645147600_n.enc?ccb=11-4&oh=01_Q5Aa2QEbjQzxh3e2PY1T5aoxoQK_O3vTH5gbbgQixsnlAp7OrQ&oe=68C83D59&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_voice_note__46fef4d7-eb7e-415a-938f-9e09602bbb22',
+  from: '573125889679'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008642363@s.whatsapp.net',
+    fromMe: false,
+    id: '16D658E3E1E8FD1B8A09B020A847FA22',
+    participant: undefined
+  },
+  messageTimestamp: 1755374606,
+  pushName: 'Danniel🫶🏻',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573008642363'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008642363@s.whatsapp.net',
+    fromMe: false,
+    id: '16D658E3E1E8FD1B8A09B020A847FA22',
+    participant: undefined
+  },
+  messageTimestamp: 1755374607,
+  pushName: 'Danniel🫶🏻',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573008642363'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008642363@s.whatsapp.net',
+    fromMe: false,
+    id: '16D658E3E1E8FD1B8A09B020A847FA22',
+    participant: undefined
+  },
+  messageTimestamp: 1755374607,
+  pushName: 'Danniel🫶🏻',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573008642363'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008642363@s.whatsapp.net',
+    fromMe: false,
+    id: '16D658E3E1E8FD1B8A09B020A847FA22',
+    participant: undefined
+  },
+  messageTimestamp: 1755374607,
+  pushName: 'Danniel🫶🏻',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573008642363'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573125889679@s.whatsapp.net',
+    fromMe: false,
+    id: '8E1A887A5409E75B234BCC9F02088E5E',
+    participant: undefined
+  },
+  messageTimestamp: 1755374609,
+  pushName: '....Yiyo....',
+  broadcast: false,
+  message: Message {
+    conversation: 'Es bromita, ven, a las 4 empezamos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  status: 4,
+  body: 'Es bromita, ven, a las 4 empezamos',
+  from: '573125889679'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573125889679@s.whatsapp.net',
+    fromMe: false,
+    id: 'C7E28071C428D7687048F382FA7ADF26',
+    participant: undefined
+  },
+  messageTimestamp: 1755374669,
+  pushName: '....Yiyo....',
+  broadcast: false,
+  message: Message {
+    conversation: 'Nooo santi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Nooo santi',
+  from: '573125889679'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573125889679@s.whatsapp.net',
+    fromMe: false,
+    id: '0FCE023774E2EE6381972BC6719AC20B',
+    participant: undefined
+  },
+  messageTimestamp: 1755374676,
+  pushName: '....Yiyo....',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ven porfi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ven porfi',
+  from: '573125889679'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573125889679@s.whatsapp.net',
+    fromMe: false,
+    id: 'D7DC31498F8CAD31FF9D9035FE1C4E0A',
+    participant: undefined
+  },
+  messageTimestamp: 1755374756,
+  pushName: '....Yiyo....',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Eso Santi, gracias',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Eso Santi, gracias',
+  from: '573125889679'
+}
